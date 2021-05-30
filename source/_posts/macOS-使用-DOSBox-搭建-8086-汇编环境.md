@@ -1,15 +1,16 @@
 ---
 title: macOS 使用 DOSBox 搭建 8086 汇编环境
+cover: https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/assembly.jpg 
 date: 2019-06-17 14:33:50
 categories: 汇编
 tags:
 - 教程
 ---
 
-![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/assembly.jpg)
-
 ## 0x00 什么是汇编语言
 >汇编语言（英语：assembly language) 是一种用于电子计算机、微处理器、微控制器，或其他可编程器件的低级语言。在不同的设备中，汇编语言对应着不同的机器语言指令集。一种汇编语言专用于某种计算机系统结构，而不像许多高级语言，可以在不同系统平台之间移植。
+
+<!-- more -->
 
 ## 0x01 安装 DOSBox
 在 `macOS` 平台我们一般习惯于通过 `App Store` 来安装所需的软件,可惜的是 `DOSBox` 并没有在 `App Store` 上架, 我们可以通过访问其官方网站来了解和下载它

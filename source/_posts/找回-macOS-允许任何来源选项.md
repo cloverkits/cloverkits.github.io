@@ -1,14 +1,17 @@
 ---
 title: 找回 macOS 允许任何来源选项
+cover: https://cdn.mos.cms.futurecdn.net/PwZjNvrmycrWWunVocJkra-1200-80.jpg
 date: 2018-08-27 19:25:45
 categroies:
-- macOS
+- Hackintosh & macOS
 tags:
 - 技巧
 - Terminal
 ---
 
 在 `macOS Sierra` 之后 `Apple` 默认隐藏了 `允许任何来源` 的安装选项，给我们日常使用带来了极大的不便
+
+<!-- more -->
 
 ![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/Allow.png)
 

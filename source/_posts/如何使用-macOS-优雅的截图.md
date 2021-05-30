@@ -2,13 +2,13 @@
 title: 如何使用 macOS 优雅的截图
 date: 2018-08-17 00:13:16
 categories:
-- 技巧
+- Hackintosh & macOS
 tags:
-- 技巧
-- macOS
+- 教程
 ---
 
 如图所示 `macOS` 原生支持 `快捷键` 截图，我们可以在 `系统偏好设置` 中发现这一点
+<!-- more -->
 
 ![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/Shortcut.jpg)
 

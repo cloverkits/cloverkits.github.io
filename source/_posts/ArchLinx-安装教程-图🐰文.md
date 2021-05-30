@@ -2,9 +2,9 @@
 title: "ArchLinx 安装教程 [图\U0001F430文]"
 date: 2018-08-20 23:37:20
 categories:
-- ArchLinux
-tags:
 - Linux
+tags:
+- Arch Linux
 - 折腾
 - 教程
 ---
@@ -19,6 +19,8 @@ tags:
 > PS:
 > 当前假设你以 `UEFI` 方式引导 Arch Linux
 > 如果你是 `Legacy BIOS` 方式界面会稍有不同
+
+<!-- more -->
 
 ![boot-finish](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/boot-finish.png)
 

@@ -1,19 +1,20 @@
 ---
 title: 使用 Docker 搭建 MTProxy TG 专用代理
+cover: https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/telegram_background.png
 date: 2018-08-18 21:48:35
 categories:
-- docker
-- 科学上网
+- Docker
 tags:
 - Telegram
-- 工具
+- 科学上网
+- 教程
 ---
 
 ## Telegram
 
-![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/telegram_background.png)
-
 > Telegram 是一款开源且跨平台的 IM 工具（类似 Whatsapp、Messenger、微信），是我用过所有同类软件中用户体验最好的一个，同时我也是 Telegram 重度用户和开发者。当然，这么好用的工具在天朝是难以访问的。 ---[李钊同学](https://zhuanlan.zhihu.com/p/25219007)
+
+<!-- more -->
 
 由于你知道的原因，`Telegram` 在天朝默认情况下是无法使用的，当然你可以先打开 `Shadowsocks` 或是 `V2Ray` 等代理软件正常访问国际互联网，然后才可以正常使用 `Telegram` 但是这样就让 `IM`软件失去了一部分使用体验。
 

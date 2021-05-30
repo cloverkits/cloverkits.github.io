@@ -5,7 +5,6 @@ categories:
 - 校园生活
 tags:
 - 技巧
-- 教程
 ---
 ## 前言
 
@@ -14,6 +13,7 @@ tags:
 它是学校为了解决各终端设备之间的`文件共享`问题所搭建的内网 `SMB` 服务器
 
 经过初步扫描发现学校的 `SMB` 有三务器进行负载均衡,每台各存储不同的资料内容
+<!-- more -->
 
 ![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/VLAN.png)
 

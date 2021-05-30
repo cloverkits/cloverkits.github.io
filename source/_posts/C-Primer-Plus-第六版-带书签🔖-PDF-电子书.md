@@ -1,17 +1,12 @@
 ---
 title: "C Primer Plus 第六版[带书签\U0001F516] PDF 电子书"
+cover: https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/c_primer_plus.jpg
 date: 2018-08-19 20:48:26
 categories:
 - 书籍
 tags:
-- 分享
 - C语言
 ---
-
-# C Primer Plus 
-
-![C Primer Plus](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/c_primer_plus.jpg)
-
 
 ## 内容简介
 
@@ -21,6 +16,8 @@ tags:
 * 第3~15章详细讲解了C语言的相关知识，包括数据类型、格式化输入/输出、运算符、表达式、语句、循环、字符输入和输出、函数、数组和指针、字符和字符串函数、内存管理、文件输入输出、结构、位操作等。
 * 第16章、17章介绍C预处理器、C库和高级数据表示。
 * 本书以完整的程序为例，讲解C语言的知识要点和注意事项。每章末设计了大量复习题和编程练习，帮助读者巩固所学知识和提高实际编程能力。附录给出了各章复习题的参考答案和丰富的参考资料。
+
+<!-- more -->
 
 * C Primer Plus 可作为C语言的教材，适用于需要系统学习C语言的初学者，也适用于巩固C语言知识或希望进一步提高编程技术的程序员。
 

@@ -1,13 +1,12 @@
 ---
 title: 技嘉 H61M-DS2 Rev3.0 Ozmosis 167x BIOS 固件
+cover: 
 date: 2018-08-07 11:39:46
 categories: 
-- Ozmosis
+- Hackintosh & macOS
 tags: 
 - 折腾
 ---
-
-![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/about-macOS.png)
 
 之前在逛论坛的偶然时候发现了 `Ozmosis` 这个引导程序
 刚开始我也没在意就是挺好奇的，一直想尝试一下
@@ -18,7 +17,9 @@ tags:
 便萌生了自己修改 BIOS 固件的想法
 
 得益于技嘉主板的 `Dual BIOS` 技术我几乎不用担心刷写 `BIOS` 所带来的潜在风险
+<!-- more -->
 
+![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/picture/about-macOS.png)
 ------
 
 由于 `BIOS` 芯片的容量只有 4MB 我不得不精简掉一些组件

@@ -1,11 +1,11 @@
-title: Hexo
-subtitle: ''
+title: Cloverk1t's Blog
+subtitle: '明夕的杂货铺'
 description: ''
 keywords: null
-author: John Doe
-language: en
-timezone: ''
-url: http://example.com
+author: Cloverk1t
+language: zh-CN
+timezone: 'Asia/Shanghai'
+url: https://cloverkits.github.io
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -61,4 +61,11 @@ exclude: null
 ignore: null
 theme: icarus
 deploy:
-  type: ''
+    type: git
+    repo: git@github.com:cloverkits/cloverkits.github.io.git
+    branch: master
+
+sitemap:
+    path: sitemap.xml
+baidusitemap:
+    path: baidusitemap.xml

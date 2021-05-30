@@ -1,20 +1,25 @@
 ---
 title: iTerm2 终端美化指北
+cover: https://iterm2.com/img/logo2x.jpg
 date: 2020-02-25 10:38:29
 categories: 
-- macOS
+- Hackintosh & macOS
 tags: 
 - Terminal
+- 折腾
 - 教程
 ---
 
-![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/PicGo/20200225115818.png)
 
 ### 0x01 前期准备
 
 * 终端软件: [iTerm2](https://iterm2.com/)
 * Shell 解释器: zsh (macOS Catalina 默认)
 * [Oh-My-Zsh](https://ohmyz.sh/)
+
+<!-- more -->
+
+![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/PicGo/20200225115818.png)
 
 ### 0x02 终端配置
 
@@ -71,3 +76,4 @@ tags:
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 ![](https://raw.githubusercontent.com/cloverkits/hexo_picture_resource/master/PicGo/20200225120103.png)
+
